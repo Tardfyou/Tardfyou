@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Tardfyou
-- 👀 I’m interested in Cybersecurity and operation system.
-- 🌱 I’m currently learning Web security and openEuler.
-- 💞️ I’m looking to collaborate on gitee and github.
-- 📫 How to reach me ? 3143596095@qq.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20vincent&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
