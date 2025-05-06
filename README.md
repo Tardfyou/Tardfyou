@@ -50,6 +50,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
 </p>
+![card](https://github.com/你的 GitHub 用户名/netease-music-card-fixed/blob/main/card.svg)
 <!---
 Tardfyou/Tardfyou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
